@@ -1,0 +1,77 @@
+body
+{
+	background-image:url('philly.jpg');
+	height:100%;
+	background-size: cover;
+}
+
+div
+{
+	position:auto;
+	margin-top:5%;
+	margin-left:8%;
+	height:60%;
+	width:800px;
+}
+
+table
+{
+	padding-left:5%;
+	padding-right:5%;
+	margin-top:10%;
+	margin-bottom:5%;
+	text-align:left;
+	height: 300px;
+	width:auto;
+	
+}
+
+td
+{
+	font-family: Georgia;
+	font-size: 16px;
+}
+
+th
+{
+	background-color: rgba(255,255,255,0.6);
+	text-align: center;
+	font-family: Georgia;
+	font-size: 20px;
+	padding-top:8px;
+	padding-bottom: 8px;
+}
+
+span
+{	
+	background-color: red;
+	
+}
+
+.time{
+	font-weight: bold;
+	
+}
+
+.classwork{
+	
+	color: rgba(0,0,128,1);
+	font-weight: bold;
+	
+}
+
+.allday{
+	background-color: rgba(255,255,255,0.6);
+	
+}
+
+.headline{
+	background-color: rgba(135,206,250,0.7);
+	text-align: center;
+	font-weight: bold;
+	
+}
+.normal{
+	background-color: rgba(255,255,255,0.6);
+	
+}
