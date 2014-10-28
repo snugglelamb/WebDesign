@@ -1,6 +1,6 @@
 Zhi Li | 44005290
 
-Link to Webpage:http://www.seas.upenn.edu/~zhili/test.html
+Link to Webpage:http://www.seas.upenn.edu/~zhili/lego.html
 Link to Calendar:http://www.seas.upenn.edu/~zhili/calendar.html
 
 special features of webpage:
